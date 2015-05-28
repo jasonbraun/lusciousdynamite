@@ -5,10 +5,12 @@
 **/
 
 a {
-  color: $colorBlue;
+  color: $colorPinkA200;
+  text-decoration: none;
 }
 
 a:hover {
+  color: $colorPinkA400;
   text-decoration: none;
 }
 
