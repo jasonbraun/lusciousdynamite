@@ -30,6 +30,11 @@ body {
   min-height: 100%;
 }
 
+.featured-text {
+  font-family: 'Satisfy', cursive;
+  color: $colorBlack;
+}
+
 body.open {
   overflow: hidden;
 }
