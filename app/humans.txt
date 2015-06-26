@@ -3,11 +3,11 @@
 
 # TEAM
 
-  <name> -- <role> -- <twitter>
+  Jason Braun -- Designer and Developer -- @jasonbraun
 
 # THANKS
 
-  <name>
+  Valarie Bermudez, for gathering all her artwork
 
 # TECHNOLOGY COLOPHON
 
